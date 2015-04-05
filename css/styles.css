@@ -1,0 +1,25 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+html, body {
+	color: white;
+	margin: 0px;
+	padding: 0px;
+	background: black;
+}
+
+.eagle {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	width: 400px;
+}
+
+.container {
+	position: absolute;
+	left: calc(50% - 150px);
+	width: 300px;
+	text-align: center;
+	top: calc(50% - 300px);
+}
